@@ -13,7 +13,7 @@ h1:hover {
 }
 
 body {
-  background-image: url(/img.png);
+  background-image: url(img.png);
 }
 
 #grid-container {
