@@ -1,6 +1,8 @@
 # Figures
  
  This simple project was made just for fun while I was playing around with CSS in https://cssbattle.dev/.
+ 
+ 
  The figures/ideas are taken and made there in CSS Battle website then transfered and adopted based on my preferences with some changes in some of them as well.
  
  
