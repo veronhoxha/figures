@@ -23,9 +23,9 @@ body {
   background-color: black;
   position: absolute;
   top: 115px;
-  left: 50px;
-  width: 1800px;
-  height: 780px;
+  left: 20px;
+  width: 1670px;
+  height: 680px;
 }
 
 .grid-item {
@@ -45,18 +45,18 @@ body {
   background: #FE5F55;
   position: absolute;
   top: 35px;
-  left: 180px;
+  left: 160px;
   border-bottom-left-radius: 20px;
   border-bottom-right-radius: 20px;
 }
 
 .s2 {
   width: 40px;
-  height: 270px;
+  height: 230px;
   background: #A64942;
   position: absolute;
-  top: 30px;
-  left: 20px;
+  top: 50px;
+  left: 0px;
   transform: rotate(90deg);
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
@@ -64,10 +64,10 @@ body {
 
 .s3 {
   width: 40px;
-  height: 330px;
+  height: 315px;
   background: #A64942;
   position: absolute;
-  top: 0px;
+  top: 10px;
   left: 365px;
   transform: rotate(-90deg);
   border-top-left-radius: 20px;
@@ -80,7 +80,7 @@ body {
   background: #FE5F55;
   position: absolute;
   top: 185px;
-  left: 180px;
+  left: 160px;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
 } 
@@ -593,49 +593,49 @@ body {
 
 .fig2 {
   position: absolute;
-  top:-25px;
+  top:-40px;
   left: 95px;
 }
 
 .fig3 {
   position: absolute;
-  top:-25px;
-  left: 100px;
+  top:-40px;
+  left: 80px;
 }
 
 .fig4 {
   position: absolute;
   top:-25px;
-  left: 100px;
+  left: 80px;
 }
 
 .fig5 {
   position: absolute;
-  top: -35px;
-  left: 100px;
+  top: -58px;
+  left: 90px;
 }
 
 .fig6 {
   position:absolute;
-  top: -25px;
-  left: 95px;
+  top: -30px;
+  left: 90px;
 }
 
 .fig7 {
   position:absolute;
-  top: -25px;
-  left: 95px;
+  top: -35px;
+  left: 90px;
 }
 
   .fig8 {
   position:absolute;
-  top: -15px;
-  left: 100px;
+  top: -40px;
+  left: 80px;
 }  
 
 .fig9 {
   position: absolute;
-  top:-20px;
-  left: 95px;
+  top:-35px;
+  left: 90px;
 }
 
