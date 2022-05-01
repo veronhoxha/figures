@@ -5,7 +5,7 @@
 - I made the figures there in CSS Battle website then transferred and customized them a bit based on my preferences.
  
 - You can check it out here: https://people.inf.elte.hu/nknba9/Figures/
--  
+
 - 😉
  
  
