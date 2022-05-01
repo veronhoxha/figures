@@ -5,9 +5,7 @@
 - I made the figures there in CSS Battle website then transferred and customized them a bit based on my preferences.
  
 - You can check it out here: https://people.inf.elte.hu/nknba9/Figures/
-
-- Note: Since it's all static you can see the project correctly on 90% zoom.
- 
+-  
 - 😉
  
  
