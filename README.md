@@ -1,4 +1,4 @@
-# Figures
+# figures
  
 - This simple project was made just for fun while I was playing around with CSS in https://cssbattle.dev/.
  
